@@ -8,7 +8,7 @@ return {
       git_status = true,
       git_status_open = true,
       git_untracked = true,
-      auto_close = true,
+      auto_close = false,
     },
   },
 }
