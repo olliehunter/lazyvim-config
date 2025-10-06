@@ -3,6 +3,8 @@ return {
   opts = {
     picker = {
       hidden = true,
+      auto_close = true,
+      ignored = true,
     },
     explorer = {
       git_status = true,
